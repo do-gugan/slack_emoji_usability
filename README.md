@@ -1,0 +1,2 @@
+# slack_emoji_usability
+オンラインでユーザビリティ評価をする時に便利そうなSlack絵文字集
